@@ -1,1 +1,1 @@
-# HogeFuga-Android
+# Hello-PrivacySandbox-Android
