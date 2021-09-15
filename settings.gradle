@@ -14,3 +14,5 @@ dependencyResolutionManagement {
 }
 rootProject.name = "PrivacySandboxCompose"
 include ':app'
+include ':lib-other'
+include ':lib-legacy'
