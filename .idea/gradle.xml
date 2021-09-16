@@ -13,6 +13,7 @@
             <option value="$PROJECT_DIR$/app" />
             <option value="$PROJECT_DIR$/lib-legacy" />
             <option value="$PROJECT_DIR$/lib-other" />
+            <option value="$PROJECT_DIR$/sdk-runtime-enabled" />
           </set>
         </option>
       </GradleProjectSettings>

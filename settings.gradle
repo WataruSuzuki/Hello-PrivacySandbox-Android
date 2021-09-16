@@ -16,3 +16,4 @@ rootProject.name = "PrivacySandboxCompose"
 include ':app'
 include ':lib-other'
 include ':lib-legacy'
+include ':sdk-runtime-enabled'
